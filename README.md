@@ -153,12 +153,5 @@ Led students in academic and skill development activities.
 
 ---
 
-## 📈 GitHub Stats
-
-![Pragathi GitHub stats](https://github-readme-stats.vercel.app/api?username=marganipragathi8\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marganipragathi8\&layout=compact)
-
----
 
 ⭐ *Always learning, building, and exploring new data science technologies.*
